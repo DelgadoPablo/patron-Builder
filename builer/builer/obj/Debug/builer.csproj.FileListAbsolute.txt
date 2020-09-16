@@ -1,0 +1,6 @@
+C:\Users\USUARIO\source\repos\builer\builer\bin\Debug\builer.exe.config
+C:\Users\USUARIO\source\repos\builer\builer\bin\Debug\builer.exe
+C:\Users\USUARIO\source\repos\builer\builer\bin\Debug\builer.pdb
+C:\Users\USUARIO\source\repos\builer\builer\obj\Debug\builer.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\builer\builer\obj\Debug\builer.exe
+C:\Users\USUARIO\source\repos\builer\builer\obj\Debug\builer.pdb
